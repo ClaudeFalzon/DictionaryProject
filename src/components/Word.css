@@ -30,7 +30,7 @@ form,
 }
 
 .form-item:focus {
-  border: rgb(0, 26, 255) 1px solid;
+  border: rgb(216, 0, 144) 1px solid;
   outline: none;
 }
 
